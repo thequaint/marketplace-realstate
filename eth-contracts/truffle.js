@@ -25,6 +25,7 @@ const HDWalletProvider = require('@truffle/hdwallet-provider');
 const fs = require('fs');
 // You'll need your own .secret file or mnomic
 const mnemonic = fs.readFileSync(".secret").toString().trim();
+const infuraKey = fs.readFileSync(".infuraKey").toString().trim();
 // You'll have to add your own to test
 // const rinkMnemonic = ""
 
