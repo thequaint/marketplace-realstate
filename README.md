@@ -14,7 +14,25 @@ The capstone will build upon the knowledge you have gained in the course in orde
 * [ZoKrates](https://github.com/Zokrates/ZoKrates)
 
 
-CPONTRACT ADDRESS AND OPEN SEA MEARKETPLACE STOREFRONT LINK
+
+Steps to Follow:
+
+    npm insatll
+    //on different terminal
+    ganache-cli -m "leaf useful desert action head wagon enemy turtle guilt denial industry master" 
+    
+    cd eth-contracts
+    truffle develop
+    truffle compile
+    truffle migrate --reset
+    truffle test
+    
+    truffle migrate --reset --network rinkeby # for deploying on Rinkrby network
+    
+
+
+
+CONTRACT ADDRESS AND OPEN SEA MEARKETPLACE STOREFRONT LINK
 
 transaction hash:    0x47fe5a67884c2c8252ec7147da757b3650abbce7d5c0210415b2aa16f45ef343
 
