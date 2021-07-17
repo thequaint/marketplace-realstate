@@ -17,7 +17,7 @@ The capstone will build upon the knowledge you have gained in the course in orde
 
 Steps to Follow:
 
-    npm insatll
+    npm install
     //on different terminal
     ganache-cli -m "your mesomanic" 
     
