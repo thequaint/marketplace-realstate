@@ -19,7 +19,7 @@ Steps to Follow:
 
     npm insatll
     //on different terminal
-    ganache-cli -m "leaf useful desert action head wagon enemy turtle guilt denial industry master" 
+    ganache-cli -m "your mesomanic" 
     
     cd eth-contracts
     truffle develop
