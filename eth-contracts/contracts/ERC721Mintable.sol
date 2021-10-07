@@ -557,9 +557,9 @@ contract ERC721Metadata is ERC721Enumerable, usingOraclize {
     // require the token exists before setting
 
 }
-contract CustomERC721Token is ERC721Metadata("Quaint","Mars","https://s3-us-west-2.amazonaws.com/udacity-blockchain/capstone/") {
+contract CustomERC721Token is ERC721Metadata("Quaint","Mars","https://s3-us-west-2.amazonaws.com/") {
 
-     //string memory _baseURI=" https://s3-us-west-2.amazonaws.com/udacity-blockchain/capstone/";
+     //string memory _baseURI=" https://s3-us-west-2.amazonaws.com/";
 
 
       //check
